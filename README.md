@@ -1,7 +1,7 @@
 
-Hi there, I'm @katherine-jijo! 👋
+Hi there, I'm Katherine Jijo! 👋
 
-👀 I’m interested in machine learning, artificial intelligence, and building innovative software solutions. I'm passionate about the intersection of machine learning and software engineering.
+👀 I’m interested in machine learning, artificial intelligence, and building innovative software solutions. I'm passionate about the problem solving within the intersection of machine learning and software engineering.
 
 🌱 I’m currently diving deep into various machine learning techniques, exploring algorithms, and honing my skills in software engineering practices, data analysis and model development.
 
