@@ -9,9 +9,3 @@ Hi there, I'm Katherine Jijo! 👋
  
 📫 Let's connect and collaborate! Connect with me on [LinkedIn](https://www.linkedin.com/in/katherine-jijo-a1b231242/).
 
-Feel free to explore my repositories, and I'm open to discussions, feedback, and collaboration opportunities!
-
-<!---
-katherine-jijo/katherine-jijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
